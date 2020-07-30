@@ -1,4 +1,3 @@
-# Desafio 03 - TDD
 ### 👨🏻‍💻Automação .NetCore + nUnit
 Test Driven Development (TDD) ou em tradução livre, Desenvolvimento guiado por testes é uma técnica de desenvolvimento de software que se relaciona com o conceito de **verificação e validação** e se baseia em um ciclo curto de repetições: Primeiramente o caso de teste automatizado é escrito com a definição uma melhoria ou uma nova funcionalidade.
 Então, é produzido código que possa ser validado pelo teste para posteriormente o código ser refatorado para um código sob padrões aceitáveis. 
